@@ -21,7 +21,7 @@
 }
 body,.ui-page {
     text-shadow: none;
-    font-size: 16px;
+    font-size: .95em;
 }
 .highlight {
     color: #A80169;
@@ -51,7 +51,7 @@ body,.ui-page {
 h2 {
     color: #FF25A5;
     text-align: center;
-    font-size: 1.4em;
+    font-size: 1.5em;
 }
 img {
     border: 0;
