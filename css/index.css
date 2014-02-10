@@ -21,6 +21,7 @@
 }
 body,.ui-page {
     text-shadow: none;
+    font-size: 16px;
 }
 .highlight {
     color: #A80169;
