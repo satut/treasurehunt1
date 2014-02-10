@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.satutyrvainen.treasurehunt" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Treasurehunt</name>
+<widget id="com.satutyrvainen.treasurehunt" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Aarrejahti</name>
     <description>
-        A Treasurehunt Application that uses the user's current location and determines how near or far the user is from the treasure's location.
+        Aarrejahti-sovellus
     </description>
     <author email="satu@satutyrvainen.com" href="http://satutyrvainen.com">
         Satu Tyrväinen
@@ -61,6 +61,9 @@
 
     <gap:splash src="res/screen/windows-phone/screen-portrait.jpg" gap:platform="winphone" />
     -->
+
+	<gap:platform name="android" />
+	<gap:platform name="ios" />
 
     <!--
         Define access to external domains.
