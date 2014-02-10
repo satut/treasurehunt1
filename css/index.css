@@ -77,4 +77,5 @@ img {
 }
 label, .ui-mobile label, div.ui-controlgroup-label {
     text-transform: none;
+    font-size: 95em;
 }
