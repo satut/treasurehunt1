@@ -37,7 +37,6 @@ body {
     );
     background-attachment:fixed;
     font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
-    font-size:12px;
     height:100%;
     margin:0px;
     padding:0px;
@@ -69,7 +68,6 @@ body {
 }
 
 h1 {
-    font-size:24px;
     font-weight:normal;
     margin:0px;
     overflow:visible;
@@ -81,7 +79,6 @@ h1 {
     border-radius:4px;
     -webkit-border-radius:4px;
     color:#FFFFFF;
-    font-size:12px;
     margin:0px 30px;
     padding:2px 0px;
 }
@@ -144,7 +141,7 @@ body,.ui-page {
 h2 {
     color: #FF25A5;
     text-align: center;
-    font-size: 20px;
+    font-size: 1.4em;
 }
 img {
     border: 0;
@@ -170,8 +167,4 @@ img {
 }
 label, .ui-mobile label, div.ui-controlgroup-label {
     text-transform: none;
-    font-size: 12px;
-}
-.ui-header .ui-title, .ui-footer .ui-title {
-    font-size: 16px;
 }
